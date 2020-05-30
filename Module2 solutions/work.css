@@ -1,0 +1,44 @@
+.ko{
+	text-align: center;
+}
+
+#log{
+	background-color: #D63B35;
+	text-align: center;
+	width-right: 100px;
+	width-left:100px;
+	width: 130px;
+	border: 2px solid black;
+	float: right;
+}
+
+#kom{
+	background-color: #39BD5F;
+	color: white;
+	text-align: center;
+	width-right: 100px;
+	width-left:100px;
+	width: 130px;
+	border: 2px solid black;
+	float: right;
+}
+
+#dom{
+	background-color: #C2B936;
+	text-align: center;
+	width-right: 100px;
+	width-left:100px;
+	width: 130px;
+	border: 2px solid black;
+	float: right;
+}
+
+#po{
+	background-color: grey;
+	border: 2px solid black;
+	margin-bottom: 10px;
+}
+
+p{
+	clear: right;
+}
